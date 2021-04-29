@@ -8,5 +8,5 @@ CONCEPT
 
 BENEFIT
 
-* When linked to computer vision models, this program sets up neighborhood grocers/corner stores for easy additions, changes, deletions and displays of thier inventory in real time.
+* This program sets up neighborhood grocers/corner stores for easy additions, changes, deletions and displays of thier inventory in real time.
 
